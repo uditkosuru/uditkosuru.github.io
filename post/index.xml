@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kosuru Udit</title>
+    <link>https://uditkosuru.github.io/post/</link>
+    <description>Recent content in Projects on Kosuru Udit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://uditkosuru.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Scraping latest COVID-19 updates from different News Websites</title>
+      <link>https://uditkosuru.github.io/post/project-8/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-8/</guid>
+      <description>It gathers latest COVID-19 updates from various news websites like CNN,NBC,CNBC . After scrapping the information from different websites it stores in a data frame. Scrapy is used for scrapping the websites.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Optical Character Recognition of a Financial document</title>
+      <link>https://uditkosuru.github.io/post/project-9/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-9/</guid>
+      <description>It extracts data from a financial document. It uses easyocr to extract the data.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Speech to text conversion</title>
+      <link>https://uditkosuru.github.io/post/project-10/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-10/</guid>
+      <description>It converts speech into text. Live Streaming Speech is converted into text.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Object Detection on Custom Dataset</title>
+      <link>https://uditkosuru.github.io/post/project-7/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-7/</guid>
+      <description>It uses Yolo Object Detector. It detects NFPA symbol over images.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Image Classification using Transfer learning</title>
+      <link>https://uditkosuru.github.io/post/project-4/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-4/</guid>
+      <description>It classifies images of bean dataset. It classifies whether a leaf is infected or not based on learning of pre-trained model. MobileNet is used as a pre-trained model.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Time Series Data</title>
+      <link>https://uditkosuru.github.io/post/project-3/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-3/</guid>
+      <description>It forecasts superstore time series dataset. It compares sales of office and furniture data. It captures trends.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Content based Recommender System</title>
+      <link>https://uditkosuru.github.io/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-2/</guid>
+      <description>It is a content based Recommender System. It recommends similar movies based on plot,cast.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Creating a Conversational Cricket Chatbot</title>
+      <link>https://uditkosuru.github.io/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-1/</guid>
+      <description>It is a rule based cricket Chatbot. Wikipedia article of Cricket is taken as Corpus. It answers queries related to cricket.  Project link</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation Analysis for Improving sales</title>
+      <link>https://uditkosuru.github.io/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-5/</guid>
+      <description>It divides customers into various clusters. Clusters are formed based on features like age, gender ,income, expenditure of customer. Different marketing strategies are employed to different clusters to maximize profit.  Project Link</description>
+    </item>
+    
+    <item>
+      <title>Spam Classifier</title>
+      <link>https://uditkosuru.github.io/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uditkosuru.github.io/post/project-6/</guid>
+      <description>It identifies messages which are spam in our inbox. It uses NLTK,TF-IDF, NGrams. It has an accuracy of 92%.  Project Link</description>
+    </item>
+    
+  </channel>
+</rss>
